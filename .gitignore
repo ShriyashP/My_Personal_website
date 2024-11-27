@@ -1,1 +1,26 @@
 Projects/
+*.Projects
+
+png/
+*.png
+
+pdf/
+*.pdf
+
+Aboutme.html/
+*.Aboutme.html
+
+Contact.html/
+*.Contact.html
+
+education.html/
+*.education.html
+
+Experience.html/
+*.Experience.html
+
+inside page.html/
+*.insidepage.html
+
+inside page.css/
+*.insidepage.css
